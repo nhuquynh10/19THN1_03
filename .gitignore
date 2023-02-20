@@ -51,10 +51,11 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+
 /bin
 /.vs
 /obj
 
-*/bin
-*/.vs
-*/obj
+**/bin
+**/.vs
+**/obj
